@@ -20,3 +20,12 @@ Horiseon site is targeted towards every business wether new or existing that are
 - This section also contains the name of the website which is on the top far left of the page.
 
 ![the navbar consisting of the website name and 3 nav menus](https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Horiseon%20title.jpeg)
+
+
+
+- __The Hero/Landing Page Image__
+
+
+- The hero image consists three people in a board meeting.There are three males and a female, one male is standing in the middle while the other 3 people are sitting on either of his side. Two on his leftf and one on his right.
+
+![alt text](https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Hero.jpeg)
