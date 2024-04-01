@@ -93,7 +93,7 @@ p {
     font-size: 36px;
 }
 
-
+/* Make the image float to the left of the container*/
 
 .float-left {
     float: left;
@@ -121,7 +121,7 @@ p {
 
 
 
-
+/* Make the image float to the right of the container*/
 .float-right {
     float: right;
     margin-left: 25px;
