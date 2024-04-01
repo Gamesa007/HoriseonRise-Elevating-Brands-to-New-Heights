@@ -29,3 +29,18 @@ Horiseon site is targeted towards every business wether new or existing that are
 - The hero image consists three people in a board meeting.There are three males and a female, one male is standing in the middle while the other 3 people are sitting on either of his side. Two on his leftf and one on his right.
 
 ![alt text](https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Hero.jpeg)
+
+
+- __The Benefits Section__
+
+- This section containss all 3 benefits of patronizing the Horiseon company. 
+- These are the gains or the expertise that a business should expect if they let Horiseon handle their business.
+
+### The Three Benefits
+
+- __Search Engine Optimization__
+
+- This section explains how Horiseon would help position businesses on the right websites and make it easy for searchers to find them during their search.
+- This would also help with the visibilty of the brand and reaching the right customers.
+
+![alt](https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Info%201.jpeg)
