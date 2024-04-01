@@ -49,7 +49,7 @@ Horiseon site is targeted towards every business wether new or existing that are
 - __Online Reputation Management__
 
 - This talks about Horiseon helping the brands control what searchers or social media users see when they search their brand.
-- This also helps pyt the brands in the positive light for a great relationship with their customers.
+- This also helps put the brands in the positive light for a great relationship with their customers.
 
 ![alt text](https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Info%202.jpeg)
 
