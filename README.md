@@ -94,3 +94,8 @@ Horiseon site is targeted towards every business wether new or existing that are
  - The footer contains a goodwill message from Horiseon and the Copyright logo.
 
  ![alt](https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Footer%20Section.jpeg)
+
+
+ ## Deployed Page link:
+
+ https://gamesa007.github.io/bootcamp-module1-challenge/
