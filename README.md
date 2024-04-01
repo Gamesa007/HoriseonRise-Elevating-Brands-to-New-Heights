@@ -67,16 +67,30 @@ Horiseon site is targeted towards every business wether new or existing that are
 - This section takes up the entire far right of the web page.
 - It explains what the outcomes of the above startegies and services would be.
 
+
+
 1. Lead Generation
  - Helping bring customers directly to businesses' websites.
+
+ 
 
 2. Brand Awareness
  - Helping to increase the serach ranks of brands by increasing their visibilty.
  - This way the're known more and become a household name.
 
+
+
 3. Cost Management
  - Advertising costs for brands would reduce.
  - This would help them save money on this expenditure.
 
+
+
  ![alt text](https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Outcome.jpeg)
 
+
+ - __The Footer Section__
+
+ - The footer contains a goodwill message from Horiseon and the Copyright logo.
+
+ ![alt]()
