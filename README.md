@@ -44,3 +44,24 @@ Horiseon site is targeted towards every business wether new or existing that are
 - This would also help with the visibilty of the brand and reaching the right customers.
 
 ![alt](https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Info%201.jpeg)
+
+
+- __Online Reputation Management__
+
+- This talks about Horiseon helping the brands control what searchers or social media users see when they search their brand.
+- This also helps pyt the brands in the positive light for a great relationship with their customers.
+
+![alt text](https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Info%202.jpeg)
+
+
+- __Social Media Marketing__
+
+- This part exlains how Horiseon could help brands market their businesses on specialized social media spaces.
+- In doing this, the brands would reach a much larger audience and make more profits.
+
+![alt text] (https://github.com/Gamesa007/bootcamp/blob/main/Develop/assets/images/Info%203.jpeg)
+
+
+
+
+
