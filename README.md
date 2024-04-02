@@ -98,4 +98,4 @@ Horiseon site is targeted towards every business wether new or existing that are
 
  ## Deployed Page link:
 
- https://gamesa007.github.io/bootcamp-module1-challenge/
+ https://gamesa007.github.io/HoriseonRise-Elevating-Brands-to-New-Heights
